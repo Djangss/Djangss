@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Djangss</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I'm+Mathieu+Coulet;&center=true&size=20" alt="Typing SVG">
+  </a>
+</h1>
+
+
 <h3 align="center">Passionate Epitech Student</h3>
 
 - 👨‍💻 All of my projects are available at [mathieu-coulet.com](mathieu-coulet.com)
