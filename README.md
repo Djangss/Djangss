@@ -7,7 +7,7 @@
 
 <h3 align="center">Passionate Epitech Student</h3>
 
-- 👨‍💻 All of my projects are available at [mathieu-coulet.com](mathieu-coulet.com)
+- 👨‍💻 All of my projects are available at [mcoulet.com](mcoulet.com)
 
 - 📫 How to reach me **coulet.mathieu@gmail.com**
 
